@@ -54,7 +54,3 @@ This script is open-source and available under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please submit issues or pull requests to the GitHub repository.
-
----
-
-Feel free to adjust the details according to your specific needs or preferences.
