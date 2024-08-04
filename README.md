@@ -47,10 +47,6 @@ The script performs the following steps:
 
 The script includes basic error handling for connection failures and issues while killing connections. It logs errors and waits before attempting to connect to the next database.
 
-## License
-
-This script is open-source and available under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! Please submit issues or pull requests to the GitHub repository.
